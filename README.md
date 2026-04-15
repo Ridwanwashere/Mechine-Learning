@@ -2,13 +2,13 @@
 
 ## Fitur
 
-* Fitur utama pertama
-* Fitur utama kedua
-* Fitur tambahan lainnya
+* WEEK 2 DOne
+* WEEK 3 Done
+* WEEK 4 Done
 * 
 ## Teknologi
 * HTML, CSS, dan JavaScript
-* Framework yang digunakan (React / Vue / Laravel)
+* Google Colab
 * Node.js sebagai runtime
 
 ## Lisensi
